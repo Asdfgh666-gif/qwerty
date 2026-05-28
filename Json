@@ -20,4 +20,26 @@
         "expirydate": "29-05-2026",
         "Allowoffline": false
     },
+    [
+    {
+        "device_id": "453542c273d757eb",
+        "username": "user1",
+        "password": "pass123",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "81f5801e291a4834",
+        "username": "user2",
+        "password": "a123",
+        "expirydate": "02-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "7e37441cf0af5b16",
+        "username": "user3",
+        "password": "p123",
+        "expirydate": "29-06-2026",
+        "Allowoffline": false
+    },
 ]
